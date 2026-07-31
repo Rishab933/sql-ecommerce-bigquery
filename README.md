@@ -39,7 +39,7 @@ views (`v_revenue_by_city`, `v_top_products`, `v_conversion_by_channel`,
 
 🔗 [View live dashboard](https://datastudio.google.com/reporting/9aad36e9-54f8-4376-bddb-0c03c27d1da8)
 
-![Dashboard screenshot](https://drive.google.com/file/d/1Yiu3pRmhyDJ4fP8f7f7MOwqHB8njKFt_/view?usp=sharing)
+![Dashboard screenshot](Ecommerce_Sales_Analysis_—_Google_Merch_Store.pdf)
 
 ## Key findings
 - Referral traffic converts at 12.2%, far higher than any other channel,
